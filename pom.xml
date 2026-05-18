@@ -155,9 +155,9 @@
       <url>http://10.102.211.180:8081/repository/ekart-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>ekart</id>
-      <name>ekart</name>
-      <url>http://10.102.211.180:8081/repository/ekart/</url>
+      <id>ekart-snapshots</id>
+      <name>ekart-snapshots</name>
+      <url>http://10.102.211.180:8081/repository/ekart-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
