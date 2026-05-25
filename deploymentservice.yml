@@ -18,7 +18,7 @@ spec:
         app: ekart
 
     spec:
-      nodeName: ansible-server
+      
       containers:
       - name: ekart-container
         image: yashwantlohar/ekart:latest
