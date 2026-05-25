@@ -23,7 +23,7 @@ spec:
       - name: ekart-container
         image: yashwantlohar/ekart:latest
         image: ekart:latest
-        imagePullPolicy: always
+        imagePullPolicy: Always
 
         ports:
         - containerPort: 8070
