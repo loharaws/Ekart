@@ -27,7 +27,7 @@ spec:
 
         ports:
         - containerPort: 8070
-        - hostport: 8070
+        - hostPort: 8070
 
 ---
 apiVersion: v1
