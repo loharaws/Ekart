@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: ekart-container
-        image: ekart:latest
+        image: docker.io/library/ekart:latest
         imagePullPolicy: Never
 
         ports:
