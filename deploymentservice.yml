@@ -21,7 +21,7 @@ spec:
       nodeName: ansible-server
       containers:
       - name: ekart-container
-        image: docker.io/library/ekart:latest
+        image: ekart:latest
         imagePullPolicy: Never
 
         ports:
