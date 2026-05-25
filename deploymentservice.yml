@@ -21,6 +21,7 @@ spec:
       containers:
       - name: ekart-container
         image: ekart:latest
+        imagePullPolicy: Never
 
         ports:
         - containerPort: 8070
