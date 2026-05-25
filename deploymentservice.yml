@@ -18,6 +18,8 @@ spec:
         app: ekart
 
     spec:
+      imagePullSecrets:
+      - name: dockerhub-secret
       
       containers:
       - name: ekart-container
