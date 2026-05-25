@@ -22,7 +22,6 @@ spec:
       containers:
       - name: ekart-container
         image: yashwantlohar/ekart:latest
-        image: ekart:latest
         imagePullPolicy: Always
 
         ports:
